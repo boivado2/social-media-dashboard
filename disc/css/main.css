@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body,
+html {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+  background: #1e202a; }
+
+.container {
+  max-width: 1440px;
+  margin: auto;
+  padding: 0 2rem;
+  font-size: 14px; }
+
+:is(h1, h2, h3, h4) {
+  font-size: 1.4rem; }
+
+img {
+  width: 100%; }
+
+.my-x3 {
+  margin: 0 0 0 1rem; }
+
+li {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
